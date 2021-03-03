@@ -7,4 +7,4 @@ This is an initial work, for now this module does not accept many configurations
 - Facebook and Google configured
 
 ### Usage
-How to use it can be seen [here](test/integrations/main.tf)
+How to use it can be seen [here](test/integration/main.tf)
